@@ -3,6 +3,12 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDd5dTc5b3VndjgyZjdsbTk1cWNyeWY5bmx3cTRldmU1dXh6eTVjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="850" height="650"/>
 </div>
 
+<div align="center">
+  <a href="https://lynk.id/mrafiumri">
+    <img src="https://img.shields.io/badge/Lynk.id-FF6B6B?style=for-the-badge&logo=link&logoColor=white" alt="Lynk.id" />
+  </a>
+</div>
+
 ```javascript
 const developer = {
     name: "M RAFI KHAIRUL UMRI",
