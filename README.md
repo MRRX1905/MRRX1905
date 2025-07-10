@@ -17,7 +17,7 @@ const developer = {
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=laragon,dart,js,ts,react,vue,python,java,php,laravel,html,css,tailwind,bootstrap,mysql,postgres,mongodb,git,vscode,figma&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nodejs,dart,js,ts,react,vue,python,java,php,laravel,html,css,tailwind,bootstrap,mysql,postgres,mongodb,git,vscode,figma&perline=10" />
 </div>
 
 <div align="center">
