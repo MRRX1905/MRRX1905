@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://lynk.id/mrafiumri">
-    <img src="https://img.shields.io/badge/Lynk.id-FF6B6B?style=for-the-badge&logo=link&logoColor=white" alt="Lynk.id" />
+    <img src="https://img.shields.io/badge/Lynk.id-Link%20in%20Bio-FF6B6B?style=for-the-badge&logo=linkfire&logoColor=white&labelColor=FF6B6B&color=FF4757" alt="Lynk.id" />
   </a>
 </div>
 
