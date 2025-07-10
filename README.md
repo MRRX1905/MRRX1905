@@ -16,12 +16,6 @@ const developer = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MRRX1905&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-- 🔭 Lagi sibuk ngerjain: **[LLM]**
-- 🌱 Lagi belajar: **Machine Learning & AI** (biar makin kece)
-- 🤔 Butuh bantuan sama: **System Design & Architecture** (susah cuy)
-- 📫 Kontak : **[mrafiumri@gmail.com]**
-- ⚡ Fun fact: **Memperbudak Ai**
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,vue,python,java,php,laravel,html,css,tailwind,bootstrap,mysql,postgres,mongodb,git,vscode,figma&perline=13" />
 </div>
@@ -44,7 +38,7 @@ const developer = {
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MRRX1905&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MRRX1905&style=for-the-badge&color=blue" alt="Profile Views" />
 </div>
 
 
