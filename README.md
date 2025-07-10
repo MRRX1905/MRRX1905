@@ -1,21 +1,16 @@
-# Halo bestie! 👋 Gue [Nama Lo]
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Selamat+datang!;Full+Stack+Developer+nih;Candaaa.." alt="Typing SVG" />
 </div>
 
-## 🚀 Tentang Gue
 
 ```javascript
 const developer = {
     name: "M RAFI KHAIRUL UMRI",
     location: "LANGAKAT, Indonesia 🇮🇩",
     title: "Abang abangan",
-    currentFocus: "Bikin aplikasi web yang scalable dan explore AI/ML",
+    currentFocus: "Bikin aplikasi web dan explore AI/ML",
 };
 ```
-
-## 🎯 Goals Gue Sekarang
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MRRX1905&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -27,13 +22,9 @@ const developer = {
 - 📫 Kontak : **[mrafiumri@gmail.com]**
 - ⚡ Fun fact: **Memperbudak Ai**
 
-## 🛠️ Tech Stack
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,vue,python,java,php,laravel,html,css,tailwind,bootstrap,mysql,postgres,mongodb,git,vscode,figma&perline=13" />
 </div>
-
-## 📊 Analisis GitHub Gue
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MRRX1905&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -44,33 +35,18 @@ const developer = {
   <img src="https://github-profile-trophy.vercel.app/?username=MRRX1905&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
-
-## 📈 Aktivitas
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MRRX1905&theme=radical&hide_border=true&bg_color=0D1117&color=00D8FF&line=00D8FF&point=FFFFFF" alt="Activity Graph" />
 </div>
-
-
-## 🏆 Achievement
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRRX1905&theme=radical" alt="Profile Summary" />
 </div>
 
-
-## 📊 Berapa Orang yang Udah Liat Profile Gue
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MRRX1905&style=for-the-badge&color=brightgreen" alt="Profile Views" />
 </div>
 
----
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
-</div>
 
 <!-- Easter Egg: Kalo lo baca ini di raw markdown, berarti lo nemu pesan tersembunyi! 🎉 -->
 
