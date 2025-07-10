@@ -1,12 +1,5 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+nih;Candaaa.." alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Selamat+datang+di+GitHub+gue!;Full+Stack+Developer+nih;Open+Source+Enthusiast;Selalu+belajar+hal+baru+terus!" alt="Typing SVG" />
-</div>
-<div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDd5dTc5b3VndjgyZjdsbTk1cWNyeWY5bmx3cTRldmU1dXh6eTVjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="850" height="650"/>
 </div>
 
@@ -28,8 +21,8 @@ const developer = {
 </div>
 
 <div align="center">
-  <img height="300rem" src="https://github-readme-stats.vercel.app/api?username=MRRX1905&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="300rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRRX1905&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  <img height="325rem" src="https://github-readme-stats.vercel.app/api?username=MRRX1905&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="325rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRRX1905&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </div>
 
 <div align="center">
