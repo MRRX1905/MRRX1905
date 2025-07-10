@@ -2,6 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+nih;Candaaa.." alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Selamat+datang+di+GitHub+gue!;Full+Stack+Developer+nih;Open+Source+Enthusiast;Selalu+belajar+hal+baru+terus!" alt="Typing SVG" />
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ```javascript
 const developer = {
