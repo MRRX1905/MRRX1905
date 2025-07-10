@@ -3,12 +3,6 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDd5dTc5b3VndjgyZjdsbTk1cWNyeWY5bmx3cTRldmU1dXh6eTVjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="850" height="650"/>
 </div>
 
-<div align="center">
-  <a href="https://lynk.id/mrafiumri">
-    <img src="https://img.shields.io/badge/Lynk.id-Link%20in%20Bio-FF6B6B?style=for-the-badge&logo=linkfire&logoColor=white&labelColor=FF6B6B&color=FF4757" alt="Lynk.id" />
-  </a>
-</div>
-
 ```javascript
 const developer = {
     name: "M RAFI KHAIRUL UMRI",
@@ -45,7 +39,11 @@ const developer = {
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MRRX1905&style=for-the-badge&color=blue" alt="Profile Views" />
+  <a href="https://lynk.id/mrafiumri">
+    <img src="https://img.shields.io/badge/Lynk.id-Link%20in%20Bio-FF6B6B?style=for-the-badge&logo=linkfire&logoColor=white&labelColor=FF6B6B&color=FF4757" alt="Lynk.id" />
+  </a>
 </div>
+
 
 
 <!-- Easter Egg: Kalo lo baca ini di raw markdown, berarti lo nemu pesan tersembunyi! 🎉 -->
