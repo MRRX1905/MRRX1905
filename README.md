@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Selamat+datang+di+GitHub+gue!;Full+Stack+Developer+nih;Open+Source+Enthusiast;Selalu+belajar+hal+baru+terus!" alt="Typing SVG" />
 </div>
 <div align="center">
-  <img src="https://giphy.com/gifs/hacker-sugartown-mayor-mel-Rpl1sod1vCXK0L2SUN" width="600" height="300"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDd5dTc5b3VndjgyZjdsbTk1cWNyeWY5bmx3cTRldmU1dXh6eTVjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="600" height="300"/>
 </div>
 
 ```javascript
