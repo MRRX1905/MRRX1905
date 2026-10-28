@@ -1,14 +1,8 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+nih;Candaaa.." alt="Typing SVG" />
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDd5dTc5b3VndjgyZjdsbTk1cWNyeWY5bmx3cTRldmU1dXh6eTVjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="850" height="650"/>
-</div>
 
 ```javascript
 const developer = {
     name: "M RAFI KHAIRUL UMRI",
-    location: "LANGAKAT, Indonesia 🇮🇩",
-    title: "Abang abangan",
-    currentFocus: "Bikin aplikasi web dan explore AI/ML",
+    location: "LANGKAT, Indonesia 🇮🇩",
 };
 ```
 
