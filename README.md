@@ -16,14 +16,6 @@ const developer = {
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MRRX1905&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MRRX1905&theme=radical&hide_border=true&bg_color=0D1117&color=00D8FF&line=00D8FF&point=FFFFFF" alt="Activity Graph" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRRX1905&theme=radical" alt="Profile Summary" />
 </div>
 
