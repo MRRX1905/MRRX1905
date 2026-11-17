@@ -1,45 +1,110 @@
+<!--
+  GitHub Profile README for MRRX1905
+  Theme: hacker / hackathon, minimal terminal look, single green accent
 
-```javascript
-const developer = {
-    name: "M RAFI KHAIRUL UMRI",
-    location: "LANGKAT, Indonesia 🇮🇩",
-};
+  SETUP
+  1. Create a PUBLIC repo named exactly "MRRX1905" (same as your username).
+  2. Save this file as README.md in the repo root and commit.
+  3. Blocks marked OPTIONAL are commented out. Remove the comment markers to enable them.
+
+  PALETTE (find and replace to re-theme)
+  dark mode  : accent 00FF41 | bg 0D1117 | text C9D1D9
+  light mode : accent 0B6E2E | bg FFFFFF | text 24292F
+-->
+
+<div align="center">
+
+<a href="https://github.com/MRRX1905">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=00FF41&center=true&vCenter=true&width=640&height=60&lines=MRRX1905;build.+break+(ethically).+ship.;hackathon+mode%3A+always+on">
+    <img alt="MRRX1905: build, break (ethically), ship" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=0B6E2E&center=true&vCenter=true&width=640&height=60&lines=MRRX1905;build.+break+(ethically).+ship.;hackathon+mode%3A+always+on">
+  </picture>
+</a>
+
+<sub><code>backend</code> &nbsp;·&nbsp; <code>security tooling</code> &nbsp;·&nbsp; <code>hackathons</code></sub>
+
+</div>
+
+<br>
+
+## about
+
+```console
+mrrx1905@github:~$ neofetch
+
+  MRRX1905@github
+  ──────────────────────────────────────────────────
+  role      developer · builder
+  focus     backend · distributed systems · security tooling
+  stack     python · fastapi · docker · react · tailwind
+  mode      hackathon / ship-fast
+  ethics    authorized targets only
+  status    online
 ```
 
+## stack
+
+```text
+~/stack
+├── backend     python · fastapi · docker
+├── frontend    react · tailwind · shadcn/ui
+├── security    tooling · automation
+└── systems     distributed systems · architecture
+```
+
+<img alt="tech stack" src="https://skillicons.dev/icons?i=py,fastapi,docker,react,tailwind,linux,bash,git&theme=dark" />
+
+## hackathon mode
+
+```console
+$ ./sprint.sh --hours=24
+
+[00h]  define the problem, not the solution
+[04h]  end-to-end prototype, however ugly
+[12h]  polish the core feature, cut everything else
+[20h]  harden it, add logging, rehearse the demo
+[24h]  ship
+```
+
+## activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MRRX1905&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&ring_color=00FF41&custom_title=github.stats">
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MRRX1905&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0B6E2E&icon_color=0B6E2E&text_color=24292F&ring_color=0B6E2E&custom_title=github.stats">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MRRX1905&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=true&custom_title=commit.activity">
+    <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MRRX1905&bg_color=FFFFFF&color=0B6E2E&line=0B6E2E&point=24292F&area=true&area_color=0B6E2E&hide_border=true&custom_title=commit.activity">
+  </picture>
+</p>
+
+<!-- OPTIONAL: hackathon / CTF log. Remove the comment markers and edit the rows.
+
+## log
+
+| year | event | project | result |
+|------|-------|---------|--------|
+| 2026 | ...   | ...     | ...    |
+
+-->
+
+<!-- OPTIONAL: contact. Remove the comment markers and edit the links.
+
+<p align="center">
+  <a href="mailto:you@example.com">email</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/your-handle">linkedin</a> &nbsp;·&nbsp;
+  <a href="https://your-site.dev">portfolio</a>
+</p>
+
+-->
+
+---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MRRX1905&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <sub><code>open to hackathon team-ups &amp; collaborations</code></sub><br>
+  <sub><code>// security work is ethical: authorized targets, labs and CTFs only</code></sub>
 </div>
-
-<div align="center">
-  <img height="800rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRRX1905&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRRX1905&theme=radical" alt="Profile Summary" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MRRX1905&style=for-the-badge&color=blue" alt="Profile Views" />
-  <a href="https://lynk.id/mrafiumri">
-    <img src="https://img.shields.io/badge/Lynk.id-Link%20in%20Bio-FF6B6B?style=for-the-badge&logo=linkfire&logoColor=white&labelColor=FF6B6B&color=FF4757" alt="Lynk.id" />
-  </a>
-</div>
-
-
-
-<!-- Easter Egg: Kalo lo baca ini di raw markdown, berarti lo nemu pesan tersembunyi! 🎉 -->
-
-<!-- GitHub Stats Cards -->
-<!-- Lo bisa custom ini dengan ganti theme, warna, dan stats yang ditampilin -->
-<!-- Theme yang tersedia: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-
-<!-- Buat setup animasi ular, lo perlu: -->
-<!-- 1. Fork https://github.com/Platane/snk -->
-<!-- 2. Bikin GitHub Action di profile repo lo -->
-<!-- 3. Update URL di atas pake username lo -->
-
-<!-- Buat widget Spotify, lo perlu: -->
-<!-- 1. Connect akun Spotify lo -->
-<!-- 2. Dapetin Spotify username lo -->
-<!-- 3. Update URL di atas -->
